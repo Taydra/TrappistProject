@@ -29,10 +29,11 @@
 \begin{document}
 \maketitle
 \section{Background}
-Less than 2 years ago, scientists discovered the exoplanetary system TRAPPIST-1, the first known system consisting of 7 planets. A vast majority of exoplanets are gas giants, but all the planets in the TRAPPIST-1 system are close to an Earth mass, and some of them are in the classical ``habitable zone'', meaning their solar irradiance is is similar to $1361 \si{\watt \per \meter^2}$. Needless to say, TRAPPIST-1 was a very exciting discovery for astronomers, particularly the planets TRAPPIST-1 d, e, and f, which are currently our most likely candidates for a habitable exoplanet. According to solar system formation dynamics, we expect planets like TRAPPIST, which orbit very closely to a very dim start, to be tidally locked, meaning there is a substellar point where the sun is always overhead, a terminator, where the sun is constantly setting, and an anti-stellar point, which never sees the sun.
+Less than 2 years ago, scientists discovered the exoplanetary system TRAPPIST-1, the first known system consisting of 7 planets. A vast majority of exoplanets are gas giants, but all the planets in the TRAPPIST-1 system are close to an Earth mass, and some of them are in the classical ``habitable zone'', meaning their solar irradiance is is similar to $1361 \si{\watt \per \meter^2}$. Needless to say, TRAPPIST-1 was a very exciting discovery for astronomers, particularly the planets TRAPPIST-1 d, e, and f, which are currently our most likely candidates for a habitable exoplanet. According to solar system formation dynamics, we expect planets like TRAPPIST, which orbit very closely to a very dim start, to be tidally locked, meaning there is a substellar point where the sun is always overhead, a terminator, where the sun is constantly setting, and an anti-stellar point, which never sees the sun. This means these planets will have dramatically different weather and climates than that of Earth's. Eric T. Wolf at CU Boulder has researched this question, and has run multiple GCM's invol
 \section{Research Questions and Motivation}
 \section{Coding}
 \subsection{Dependencies}
+
 \section{Plan}
 
 \end{document}
